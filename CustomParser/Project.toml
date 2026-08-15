@@ -1,0 +1,4 @@
+name = "CustomParser"
+uuid = "a409cb23-52c4-458d-b152-ff7b898bcde3"
+version = "0.1.0"
+authors = ["Henrik Wolf <henrik-wolf@freenet.de>"]

@@ -1,0 +1,7 @@
+name = "julia_hackage"
+uuid = "7206bbfa-b9ff-4699-9887-3ce58ddc321e"
+version = "0.1.0"
+authors = ["Henrik Wolf <henrik-wolf@freenet.de>"]
+
+[syntax]
+julia_version = "./CustomParser"
