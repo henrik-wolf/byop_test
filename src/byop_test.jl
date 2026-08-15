@@ -1,4 +1,4 @@
-module julia_hackage
+module byop_test
 
 """
     hello(who::String)
@@ -14,4 +14,4 @@ Return `x + 5`.
 """
 domath(x::Number) = x + 5
 
-end # module julia_hackage
+end # module byop_test
